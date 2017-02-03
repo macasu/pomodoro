@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: pomodoro
+Bundle-SymbolicName: pomodoro
+Bundle-Version: 1.0.0.qualifier
+Export-Package: pomodoro,
+ pomodoro.config,
+ pomodoro.controladores,
+ pomodoro.excepcion,
+ pomodoro.modelo.entidades,
+ pomodoro.modelo.enumeraciones,
+ pomodoro.modelo.repositorio,
+ pomodoro.modelo.servicio
